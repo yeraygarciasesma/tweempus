@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tweempus"
+    }
+  },
+  "defaultProject": "Tweempus",
+  "cli": {
+    "analytics": "ef786461-195c-4572-8243-b1c0526574c4"
+  }
 }
